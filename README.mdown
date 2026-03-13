@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://dsaf.love/media/wpp3VpdrvoM.jpg" width="100%"></img>
+</p>
+
+
 tvOS Browser:
 Web browser for AppleTV
 =============
@@ -10,6 +15,11 @@ Web browser for tvOS using private API (aka UIWebView). This software is provide
 
 Update: Changing Availability.h to build successfully is NOT needed anymore from now on!
 The private UIWebView is now initialized using NSClassFromString(@"UIWebView"), which is a cleaner solution than changing your local Availability.h for both Device and Simulator builds.
+
+
+<p align="center">
+  <img src="https://dsaf.love/media/Banner_Slideshow_01_1080.gif" width="100%"  valign="center" align="center"></img>
+</p>
 
 
 How to Install tvOS Browser
@@ -26,6 +36,10 @@ Next, remember to change to your own Team in Signing & Capabilities:
 Then Run the project, with your AppleTV as target device.
 If your Apple TV does not have a USB-C port or you don't have a cable, connect to your Apple TV wirelessly: http://www.redmondpie.com/how-to-wirelessly-connect-apple-tv-4k-to-xcode-on-mac/.
 
+
+<p align="center">
+  <img src="https://dsaf.love/media/Banner_Slideshow_01_1080.gif" width="100%"  valign="center" align="center"></img>
+</p>
 
 
 How to Use tvOSBrowser
@@ -52,3 +66,8 @@ The Advanced menu lets you:
 - Clear cache
 - Clear cookies
 - Show the usage guide
+
+
+<p align="center">
+  <img src="https://dsaf.love/media/01-02.png" width="100%"></img>
+</p>
